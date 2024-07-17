@@ -5,6 +5,21 @@ My name is Khushpreet kaur. I am 19 years old. I completed my senior secondary e
 
 currently, I'm studying as first year student in Computer science and Engineering at Guru Nanak Dev Engineering college, Ludhiana. I'm glad that i got admission in this college. Now, I'm looking forward to learn, explore and enjoy things with you all. I believe, I'll get to know many things from you guys. 
 <br>
-My interests are :
+#### My interests are in :####
+* space
+* Animations
+* AI (Artificial Intelligence)
+* Games and traveling
 
-Thank you so much for coming to my page. 
+#### I want to learn and explore about:####
+* Coding
+* Vlogging
+*  Photography and editing
+*  Graphic designing
+
+#### I have some basic knowledge about ####
+* HTML
+* CSS
+#### I hope you guys help me to  enhance my skills and to get more knowledge. ####
+
+#### Thank you so much for coming to my page. ####
