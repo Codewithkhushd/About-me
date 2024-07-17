@@ -1,5 +1,5 @@
-## About-me ##
-# Hello  everyone #
+# About-me #
+### Hello  everyone ###
 My name is Khushpreet kaur. I am 19 years old. I completed my senior secondary education in 2022 from Govt. sen. sec. smart school Dehlon. I'm state level volleyball and badminton player. I like singing and playing games. My long term goal is to join ISRO and my short term goal is to do every thing with my 100% to achieve my goals. 
 <br>
 
